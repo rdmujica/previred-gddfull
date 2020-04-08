@@ -67,7 +67,7 @@
 					<plugin>
 						<groupId>io.swagger</groupId>
 						<artifactId>swagger-codegen-maven-plugin</artifactId>
-						<version>${springfox-version}</version>
+						<version>${swagger-codegen-maven-plugin}</version>
 						<executions>
 							<execution>
 								<goals>
