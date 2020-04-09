@@ -1,3 +1,8 @@
+**Postulante**: Rafael Mujica
+**Email**: rafaeldanielmujica@gmail.com
+**Outsourcing**: Outsourcing
+
+------------
 # Generador Datos Desafio Full - GDDFull
  
  El proyecto GddFull expone un servicio API REST el cual consume el servico [GDD](https://github.com/previred/Generador_Datos_Desafio_Uno "GDD") para luego identificar las fechas faltantes y entregar una respuesta en formato JSON.
