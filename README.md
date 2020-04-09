@@ -1,6 +1,8 @@
 **Postulante**: Rafael Mujica
+
 **Email**: rafaeldanielmujica@gmail.com
-**Outsourcing**: Outsourcing
+
+**Outsourcing**: TechConsult
 
 ------------
 # Generador Datos Desafio Full - GDDFull
